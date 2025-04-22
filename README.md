@@ -1,7 +1,11 @@
 <h1> Hi, my name is Laerson. I'm a C++ developer specializing in cheat development and custom applications.  ❤️🕹️💻🤖📱</h1>  
 
-![LaersonBP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaersonBP&show_icons=true&bg_color=ffffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaersonBP&layout=compact&theme=white)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaersonBP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaersonBP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaersonBP&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
